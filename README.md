@@ -1,53 +1,65 @@
-<h1 align="center">Hi there 👋, I'm Ashkan</h1>
+<h1 align="center">👋 Hi there, I'm Ashkan</h1>
+
 <p align="center">
-  🚀 Frontend Developer | Aspiring Data Scientist & AI/ML Engineer  
-  Currently building full-stack apps and diving deep into Data Science with Python & C#
+  <img src="https://user-images.githubusercontent.com/your-gif-name.gif" width="200" alt="Coding GIF">
+</p>
+
+<p align="center">
+  🚀 Frontend Developer | Aspiring Fullstack Engineer & AI/ML Enthusiast  
+  Currently building React-based apps and learning backend & data technologies
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🧪 I'm passionate about **AI, Machine Learning and Data Science**
-- 🌍 Currently learning and building with **React.js, TypeScript, Python, and C#**
-- 🧱 Working on real-world apps like To-Do App, Weather App and Crypto Tracker
-- 🔍 Exploring open-source and contributing to impactful projects
-- 🎯 My Goal: Join a remote-first international tech company by end of 2025
+- 💡 Passionate about **clean code, scalable design**, and modern **web technologies**  
+- 🌱 Learning and working with **React.js, TypeScript, Python, and C#**  
+- 🧠 Interested in **AI, Data Science, and intelligent web systems**  
+- ⚙️ Currently developing: **To-Do List App**, **Inventory Management System**, and **Portfolio Website**  
+- 🎯 Goal: Secure a **junior frontend/fullstack developer** position by **October 2025** and grow toward AI/ML specialization  
 
 ---
 
 ### 🔧 Tech Stack & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,python,html,css,tailwind,git,github,nodejs,nextjs" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,cs,html,css,tailwind,git,github,nodejs,mysql,vscode" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
 
-- 🔗 [ToDoListReact] – React-based To-Do App with beautiful UI and local storage  
-- 🔗 [weatherApp] – Weather app using OpenWeather API  
-- 🔗 [Crypto Tracker (Coming Soon)] – Real-time crypto dashboard with chart and price tracking
+- 🔗 **[ToDoListReact](#)** — React-based task manager with Redux, Context API & TailwindCSS  
+- 🔗 **[WeatherApp](#)** — Real-time weather dashboard using OpenWeather API  
+- 🔗 **[AbanCloud Website](https://www.abancloud.ir)** — Responsive landing page built with Laravel & TailwindCSS  
+- 🔗 **[Inventory System (In Progress)](#)** — Fullstack project integrating React + Express + MySQL  
 
 ---
 
-### 🌱 Current Learning
+### 🧩 Current Focus
 
-- 🧠 Data Science with Python (pandas, numpy, matplotlib)
-- 🤖 AI/ML Concepts with TensorFlow and Scikit-Learn
-- 🧩 Backend Integration with C# and .NET Core
-- 🛠️ Contribution to Open-Source Projects
+- 🧠 **Advanced React & State Management** (Context, Redux Toolkit)  
+- ⚙️ **Backend Fundamentals** — RESTful API design with Express.js & MySQL  
+- 🧪 **Testing** — React Testing Library, Jest, CI/CD (GitHub Actions)  
+- 🤖 **Data Science Foundations** — Python (NumPy, Pandas, Matplotlib)  
+- 💬 Strengthening problem-solving and algorithmic thinking  
 
 ---
 
 ### 📬 Let's Connect!
 
-- 🌐 [LinkedIn (Add your profile)](https://www.linkedin.com/)
-- 💻 [My GitHub](https://github.com/GhosTCoder20)
+<p align="center">
+  🌐 <a href="https://ashkancv.netlify.app/">Portfolio Website</a> |
+  💼 <a href="www.linkedin.com/in/ashkan-firouzeh">LinkedIn</a> |
+  💻 <a href="https://github.com/GhosTCoder20">GitHub</a>
+</p>
 
+---
 
- GitHub Stats
+### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GhosTCoder20&show_icons=true&theme=light" />
 </p>
