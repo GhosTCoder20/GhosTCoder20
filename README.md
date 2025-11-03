@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Ashkan</h1>
 
 <p align="center">
-  <img src="https://github.com/GhosTCoder20/GhosTCoder20/blob/main/To%20readme%20Github.gif" width="200" alt="Coding GIF">
+  <img src="https://github.com/GhosTCoder20/GhosTCoder20/blob/main/To%20readme%20Github.gif" width="500" alt="Coding GIF">
 </p>
 
 <p align="center">
