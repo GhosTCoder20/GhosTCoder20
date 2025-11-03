@@ -24,15 +24,14 @@
 ### 🔧 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,cs,html,css,tailwind,git,github,nodejs,mysql,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,react,python,html,css,tailwind,git,github,nodejs,vscode" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
 
-- 🔗 **[ToDoListReact](#)** — React-based task manager with Redux, Context API & TailwindCSS  
-- 🔗 **[WeatherApp](#)** — Real-time weather dashboard using OpenWeather API  
+- 🔗 **[ToDoListReact](https://todolist-project20.netlify.app/)** — React-based task manager with Redux, Context API & TailwindCSS 
 - 🔗 **[AbanCloud Website](https://www.abancloud.ir)** — Responsive landing page built with Laravel & TailwindCSS  
 - 🔗 **[Inventory System (In Progress)](#)** — Fullstack project integrating React + Express + MySQL  
 
@@ -50,10 +49,23 @@
 
 ### 📬 Let's Connect!
 
+
 <p align="center">
-  🌐 <a href="https://ashkancv.netlify.app/">Portfolio Website</a> |
-  💼 <a href="www.linkedin.com/in/ashkan-firouzeh">LinkedIn</a> |
-  💻 <a href="https://github.com/GhosTCoder20">GitHub</a>
+  <a href="https://ashkancv.netlify.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=web" width="45" alt="Website" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="www.linkedin.com/in/ashkan-firouzeh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/GhosTCoder20" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
+  </a>
+  <a href="mailto:ashkanfirouzeh80m@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" />
+</a>
+
 </p>
 
 ---
