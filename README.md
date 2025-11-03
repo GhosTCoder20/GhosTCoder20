@@ -6,10 +6,6 @@
 <h1 align="center">👋 Hi there, I'm Ashkan</h1>
 
 <p align="center">
-  <img src="https://github.com/GhosTCoder20/GhosTCoder20/blob/main/To%20readme%20Github.gif" width="300" alt="Coding GIF">
-</p>
-
-<p align="center">
   🚀 Frontend Developer | Aspiring Fullstack Engineer & AI/ML Enthusiast  
   Currently building React-based apps and learning backend & data technologies
 </p>
@@ -19,9 +15,9 @@
 ### 👨‍💻 About Me
 
 - 💡 Passionate about **clean code, scalable design**, and modern **web technologies**  
-- 🌱 Learning and working with **React.js, TypeScript, Python, and C#**  
+- 🌱 Learning and working with **React.js, TypeScript, Python**  
 - 🧠 Interested in **AI, Data Science, and intelligent web systems**  
-- ⚙️ Currently developing: **To-Do List App**, **Inventory Management System**, and **Portfolio Website**  
+- ⚙️ Currently developing: **To-Do List App**, **Inventory Management System** 
 - 🎯 Goal: Secure a **junior frontend/fullstack developer** position by **October 2025** and grow toward AI/ML specialization  
 
 ---
