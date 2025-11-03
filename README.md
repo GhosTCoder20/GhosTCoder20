@@ -51,15 +51,13 @@
 
 
 <p align="center">
-  <a href="https://ashkancv.netlify.app/" target="_blank">
+  <a href="https://ashkancv.netlify.app/" target="_blank" style="margin-right:5px">
     <img src="https://skillicons.dev/icons?i=web" width="45" alt="Website" />
   </a>
-  &nbsp;&nbsp;
-  <a href="www.linkedin.com/in/ashkan-firouzeh" target="_blank">
+  <a href="www.linkedin.com/in/ashkan-firouzeh" target="_blank" style="margin-right:5px">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/GhosTCoder20" target="_blank">
+  <a href="https://github.com/GhosTCoder20" target="_blank" style="margin-right:5px">
     <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
   </a>
   <a href="mailto:ashkanfirouzeh80m@gmail.com">
