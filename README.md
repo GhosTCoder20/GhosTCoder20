@@ -1,3 +1,8 @@
+<!-- 🌟 Intro GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"/>
+</p>
+
 <h1 align="center">👋 Hi there, I'm Ashkan</h1>
 
 <p align="center">
@@ -51,19 +56,18 @@
 
 
 <p align="center">
-  <a href="https://ashkancv.netlify.app/" target="_blank" style="margin-right:10px">
-    <img src="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=globe" width="45" alt="Website" />
+  <a href="https://ashkancv.netlify.app/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" alt="Website" style="margin-right:10px;"/>
   </a>
-  <a href="www.linkedin.com/in/ashkan-firouzeh" target="_blank" style="margin-right:10px">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/ashkan-firouzeh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" style="margin-right:10px;"/>
   </a>
-  <a href="https://github.com/GhosTCoder20" target="_blank" style="margin-right:10px">
-    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
+  <a href="https://github.com/GhosTCoder20" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" style="margin-right:10px;"/>
   </a>
-  <a href="mailto:ashkanfirouzeh80m@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" />
-</a>
-
+  <a href="mailto:ashkanfirouzeh80m@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" style="margin-right:10px;"/>
+  </a>
 </p>
 
 ---
